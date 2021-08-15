@@ -18,7 +18,6 @@ def find_it(seq):
 
 
 print(find_it([1,1,2,2,2,2,3,3,3]))
-# ans==> 3
 
 
 
